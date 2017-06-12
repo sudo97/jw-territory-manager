@@ -10,11 +10,9 @@
          stopOnFailure="false"
          syntaxCheck="false"
 >
-<!--Another comment here-->
     <testsuites>
         <testsuite name="Application Test Suite">
             <directory>./app/tests/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
-<!-- comment here -->
